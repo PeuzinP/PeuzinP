@@ -28,14 +28,31 @@ Olá! Sou **Pedro Paulo Mendes**, graduado e atualmente cursando **Engenharia de
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=nodedotjs&labelColor=0D1117)
 
-### 🔭 Projetos e Atividades  
-- 🚀 Desenvolvendo aplicações para a marca **C'DELUX**.
-- 💻 Explorando padrões de projeto e engenharia de requisitos.
-- ✍️ Compartilhando resoluções de problemas complexos de lógica e sistemas.
+### 🚀 Projetos em Destaque
 
+#### 💎 C'DELUX Ecosystem
+Desenvolvimento de uma plataforma de e-commerce e gestão de marca.
+- **Stack:** Vue.js para o front-end administrativo e Node.js para automação de processos.
+- **Destaque:** Implementação de uma arquitetura baseada em componentes reutilizáveis e design responsivo focado em conversão.
+- **Status:** Em evolução para integração com APIs de pagamento e logística.
+
+#### 🌐 Distributed Systems Architecture (CORBA)
+Estudo e implementação de middleware para comunicação entre objetos distribuídos.
+- **Tech:** Java, CORBA (Common Object Request Broker Architecture).
+- **Destaque:** Resolução de desafios de interoperabilidade em redes, garantindo comunicação eficiente entre sistemas heterogêneos.
+
+#### 🛠 Infrastructure & Virtualization Labs
+Ambientes isolados para testes de carga e segurança.
+- **Foco:** Configuração de Máquinas Virtuais (VMs) para simulação de redes e teste de deploys.
+- **Destaque:** Automação de ambientes de desenvolvimento para garantir paridade entre local e produção.
+
+#### 🧠 Logic & Algorithm Solvers
+Repositório dedicado à resolução de algoritmos complexos e lógica de programação.
+- **Tech:** Java, Python, C#.
+- **Destaque:** Foco em Big O Notation, otimização de performance e estruturas de dados eficientes.
 ### 📫 Como me encontrar  
-- **LinkedIn:** [Seu Perfil LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-- **Email:** seu.email@exemplo.com  
+- **LinkedIn:** https://www.linkedin.com/in/pedro-mendes-720830270?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpOnBsn3DT6GP8BHkSnY%2BeQ%3D%3D  
+- **Email:** ppmendes1519@gmail.com 
 
 <div align="center">
 <br><p align="center"><b>Contador de visitantes</b></p>  
