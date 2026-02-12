@@ -53,11 +53,3 @@ Repositório dedicado à resolução de algoritmos complexos e lógica de progra
 ### 📫 Como me encontrar  
 - **LinkedIn:** https://www.linkedin.com/in/pedro-mendes-720830270?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpOnBsn3DT6GP8BHkSnY%2BeQ%3D%3D  
 - **Email:** ppmendes1519@gmail.com 
-
-<div align="center">
-<br><p align="center"><b>Contador de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/PeuzinP/count.svg" alt="Visitor Count"/></p>  
-<br>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer"/>
