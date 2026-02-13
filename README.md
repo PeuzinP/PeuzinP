@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Pedro+Paulo+Mendes;Engenheiro+de+Software+em+formação;Bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Pedro+Paulo+Mendes;Engenheiro+de+Software+em+formação;Bem-vindo!)](https://git.io/typing-svg)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PeuzinP&bg_color=000000&color=FFA500&line=ffb347&point=ff7518&area=true&hide_border=true)](https://github.com/PeuzinP)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PeuzinP&bg_color=000000&color=00d4ff&line=ffb347&point=ff7518&area=true&hide_border=true)](https://github.com/PeuzinP)
 
 ### 🎓 Sobre mim  
 Olá! Sou **Pedro Paulo Mendes**, graduado e atualmente cursando **Engenharia de Software** na Estácio. Tenho formação técnica em Desenvolvimento de Sistemas e foco em criar soluções escaláveis e bem estruturadas.
