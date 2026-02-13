@@ -28,11 +28,11 @@ Olá! Sou **Pedro Paulo Mendes**, graduado e atualmente cursando **Engenharia de
 ⛪ Sistema EJC (Encontro de Jovens com Cristo)
 Plataforma Full-Stack desenvolvida para a gestão completa de participantes e logística de eventos paroquiais.
 
-Stack: React, TypeScript, FastAPI (Python) e PostgreSQL.
+- **Stack:** React, TypeScript, FastAPI (Python) e PostgreSQL.
 
-Destaque: Sistema robusto com controle de inscrições e presença, já validado e utilizado em ambiente real em uma paróquia da região.
+- **Destaque:** Sistema robusto com controle de inscrições e presença, já validado e utilizado em ambiente real em uma paróquia da região.
 
-Diferencial: Implementação de uma arquitetura limpa focada em usabilidade e performance.
+- **Diferencial:** Implementação de uma arquitetura limpa focada em usabilidade e performance.
 
 #### 🌐 Distributed Systems Architecture (CORBA)
 Estudo e implementação de middleware para comunicação entre objetos distribuídos.
