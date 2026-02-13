@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Pedro+Paulo+Mendes;Engenheiro+de+Software+em+formação;Bem-vindo!)](https://git.io/typing-svg)
 
-<div align="center">
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PeuzinP&show_icons=true&count_private=true&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Paulo Mendes GitHub stats"/>
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeuzinP&layout=compact&hide_border=true&title_color=FFA500&text_color=FFA500&bg_color=0d1117" alt="Top Langs"/>
-</div>
-
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PeuzinP&bg_color=000000&color=FFA500&line=ffb347&point=ff7518&area=true&hide_border=true)](https://github.com/PeuzinP)
 
 ### 🎓 Sobre mim  
@@ -30,7 +25,6 @@ Olá! Sou **Pedro Paulo Mendes**, graduado e atualmente cursando **Engenharia de
 
 ### 🚀 Projetos em Destaque
 
-🚀 Projetos em Destaque
 ⛪ Sistema EJC (Encontro de Jovens com Cristo)
 Plataforma Full-Stack desenvolvida para a gestão completa de participantes e logística de eventos paroquiais.
 
